@@ -1,1 +1,1 @@
-Geostat population density for the top players on a map.
+Geostat data for the top players.
