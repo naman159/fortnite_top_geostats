@@ -1,1 +1,1 @@
-# fortnite_top_geostats
+Geostat markings for the top players on a map.
